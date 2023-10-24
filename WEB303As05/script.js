@@ -92,7 +92,7 @@ $(document).ready(function () {
       $('#content-item-list').css({
           border: '4px solid brown ',
           width: '260px', 
-          padding: '17px', 
+          padding: '15px', 
           margin: '40px auto', 
         } )};
         
